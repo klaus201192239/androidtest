@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\myproject\android\androidtest\app\build\intermediates\exploded-aar\com.android.support\design\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="E:\myproject\android\androidtest\app\build\intermediates\pre-dexed\release\classes-769fbbdd009a0e0e0f8056e42d08e810894beb3b.jar" />
+    </item>
+    <item
+        jar="D:\android\STUDIO\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="E:\myproject\android\androidtest\app\build\intermediates\pre-dexed\release\support-annotations-23.0.1-7b31def131801e086fdbd1a4b1b66ef4c8638c31.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.wilddog\wilddog-client-android\0.6.1\13f9d812ccd58589e96245480286056e6097707c\wilddog-client-android-0.6.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="13f9d812ccd58589e96245480286056e6097707c">
+        <dex dex="E:\myproject\android\androidtest\app\build\intermediates\pre-dexed\release\wilddog-client-android-0.6.1-3d7907c96a9b1ed4f491fa1d59db0f9b7788bb3e.jar" />
+    </item>
+    <item
+        jar="E:\myproject\android\androidtest\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="E:\myproject\android\androidtest\app\build\intermediates\pre-dexed\release\classes-307e78ee374b72b79c967eb0651ade0e2b64377c.jar" />
+    </item>
+    <item
+        jar="E:\myproject\android\androidtest\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="E:\myproject\android\androidtest\app\build\intermediates\pre-dexed\release\classes-78d46764d514d630d9720009dcb6fed6aa0aa231.jar" />
+    </item>
+    <item
+        jar="E:\myproject\android\androidtest\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="E:\myproject\android\androidtest\app\build\intermediates\pre-dexed\release\internal_impl-23.0.1-fc792524e4fd7659ccec33ecf7a1d5329d671772.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="wilddog-client-android-0.6.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.wilddog/wilddog-client-android/0.6.1/13f9d812ccd58589e96245480286056e6097707c/wilddog-client-android-0.6.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.wilddog/wilddog-client-android/0.6.1/6c0f5a204da7a081fbf3579e4f4cd98affdacd92/wilddog-client-android-0.6.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
